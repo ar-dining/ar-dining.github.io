@@ -12960,13 +12960,13 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #2e86ab;
   }
 }
 
 .projects-section .project-text {
   padding: 3rem;
-  font-size: 90%;
+  font-size: 120%;
 }
 
 @media (min-width: 992px) {
@@ -13001,7 +13001,7 @@ body {
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #2e86ab;
 }
 
 .contact-section .card h4,
@@ -13014,7 +13014,7 @@ body {
 
 .contact-section .card hr {
   opacity: 1;
-  border-color: #64a19d;
+  border-color: #2e86ab;
   border-width: 0.25rem;
   width: 3rem;
 }
